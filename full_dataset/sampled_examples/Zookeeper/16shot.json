@@ -1,0 +1,16 @@
+{"query": "Reading configuration from: /etc/zookeeper/conf/zoo.cfg", "answer": "Reading configuration from: {variables}"}
+{"query": "Defaulting to majority quorums", "answer": "Defaulting to majority quorums"}
+{"query": "autopurge.snapRetainCount set to 3", "answer": "autopurge.snapRetainCount set to {variables}"}
+{"query": "autopurge.purgeInterval set to 0", "answer": "autopurge.purgeInterval set to {variables}"}
+{"query": "Purge task is not scheduled.", "answer": "Purge task is not scheduled."}
+{"query": "Starting quorum peer", "answer": "Starting quorum peer"}
+{"query": "binding to port 0.0.0.0/0.0.0.0:2181", "answer": "binding to port {variables}"}
+{"query": "tickTime set to 2000", "answer": "tickTime set to {variables}"}
+{"query": "minSessionTimeout set to -1", "answer": "minSessionTimeout set to {variables}"}
+{"query": "maxSessionTimeout set to -1", "answer": "maxSessionTimeout set to {variables}"}
+{"query": "initLimit set to 10", "answer": "initLimit set to {variables}"}
+{"query": "acceptedEpoch not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation", "answer": "acceptedEpoch not found! Creating with a reasonable default of {variables}. This should only happen when you are upgrading your installation"}
+{"query": "My election bind port: 0.0.0.0/0.0.0.0:3888", "answer": "My election bind port: {variables}"}
+{"query": "New election. My id = 1, proposed zxid=0x0", "answer": "New election. My id = {variables}, proposed {variables}"}
+{"query": "Notification: 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEPoch), LOOKING (my state)", "answer": "Notification: {variables} (n.leader), {variables} (n.zxid), {variables} (n.round), {variables} (n.state), {variables} (n.sid), {variables} (n.peerEPoch), {variables} (my state)"}
+{"query": "Cannot open channel to 2 at election address /10.10.34.12:3888", "answer": "Cannot open channel to {variables} at election address {variables}"}

@@ -1,0 +1,32 @@
+{"query": "Deleting staging directory hdfs://msra-sa-41:9000 /tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020", "answer": "Deleting staging directory {variables} {variables}"}
+{"query": "Connecting to ResourceManager at msra-sa-41/10.190.173.170:8030", "answer": "Connecting to ResourceManager at {variables}"}
+{"query": "Read 60515389 bytes from map-output for attempt_1445062781478_0017_m_000000_0", "answer": "Read {variables} bytes from map-output for {variables}"}
+{"query": "Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@12a0fe1b", "answer": "Using ResourceCalculatorProcessTree : {variables}"}
+{"query": "Service JobHistoryEventHandler failed in state STOPPED; cause: org.apache.avro.AvroTypeException: Attempt to process a enum when a union was expected.", "answer": "Service {variables} failed in state {variables}; cause: {variables}: Attempt to process a enum when a union was expected."}
+{"query": "Extract jar:file:/D:/hadoop-2.6.0-localbox/share/hadoop/yarn/hadoop-yarn-common-2.6.0-SNAPSHOT.jar!/webapps/mapreduce to C:\\Users\\msrabi\\AppData\\Local\\Temp\\2\\Jetty_0_0_0_0_4233_mapreduce____.fhx83j\\webapp", "answer": "Extract jar:{variables} to {variables}"}
+{"query": "Starting flush of map output", "answer": "Starting flush of map output"}
+{"query": "maxTaskFailuresPerNode is 3", "answer": "maxTaskFailuresPerNode is {variables}"}
+{"query": "Done acknowledgement from attempt_1445062781478_0020_r_000000_0", "answer": "Done acknowledgement from {variables}"}
+{"query": "JVM with ID: jvm_1445062781478_0020_m_000010 given task: attempt_1445062781478_0020_m_000008_0", "answer": "JVM with ID: {variables} given task: {variables}"}
+{"query": "In stop, writing event MAP_ATTEMPT_FAILED", "answer": "In stop, writing event {variables}"}
+{"query": "Stopping IPC Server Responder", "answer": "Stopping IPC Server Responder"}
+{"query": "Ignoring obsolete output of KILLED map-task: 'attempt_1445087491445_0005_m_000011_1'", "answer": "Ignoring obsolete output of KILLED map-task: '{variables}'"}
+{"query": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 1197 seconds. Will retry shortly ...", "answer": "Failed to renew lease for {variables} for {variables} seconds. Will retry shortly ..."}
+{"query": "Commit-pending state update from attempt_1445062781478_0011_r_000000_0", "answer": "Commit-pending state update from {variables}"}
+{"query": "Processing split: hdfs://msra-sa-41:9000/pageinput2.txt:671088640+134217728", "answer": "Processing split: {variables}+{variables}"}
+{"query": "Result of canCommit for attempt_1445175094696_0005_r_000000_0:true", "answer": "Result of canCommit for {variables}"}
+{"query": "Exception running child : java.net.NoRouteToHostException: No Route to Host from MININT-FNANLI5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: http://wiki.apache.org/hadoop/NoRouteToHost", "answer": "Exception running child : java.net.NoRouteToHostException: No Route to Host from {variables} to {variables} failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: {variables}"}
+{"query": "Final Stats: PendingReds:0 ScheduledMaps:0 ScheduledReds:0 AssignedMaps:0 AssignedReds:0 CompletedMaps:10 CompletedReds:1 ContAlloc:16 ContRel:0 HostLocal:13 RackLocal:2", "answer": "Final Stats: PendingReds:{variables} ScheduledMaps:{variables} ScheduledReds:{variables} AssignedMaps:{variables} AssignedReds:{variables} CompletedMaps:{variables} CompletedReds:{variables} ContAlloc:{variables} ContRel:{variables} HostLocal:{variables} RackLocal:{variables}"}
+{"query": "Task attempt_1445175094696_0002_r_000000_0 is allowed to commit now", "answer": "Task {variables} is allowed to commit now"}
+{"query": "Graceful stop failed", "answer": "Graceful stop failed"}
+{"query": "We launched 1 speculations. Sleeping 15000 milliseconds.", "answer": "We launched {variables} speculations. Sleeping {variables} milliseconds."}
+{"query": "Opening proxy : MININT-FNANLI5.fareast.corp.microsoft.com:64642", "answer": "Opening proxy : {variables}"}
+{"query": "DFS chooseDataNode: got # 1 IOException, will wait for 398.80007962755826 msec.", "answer": "DFS chooseDataNode: got # {variables} IOException, will wait for {variables} msec."}
+{"query": "Copying hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445087491445_0002/job_1445087491445_0002_2_conf.xml to hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging", "answer": "Copying {variables} to {variables}"}
+{"query": "assigned 1 of 1 to 04DN8IQ.fareast.corp.microsoft.com:13562 to fetcher#5", "answer": "assigned {variables} of {variables} to {variables} to fetcher#{variables}"}
+{"query": "OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter", "answer": "OutputCommitter is {variables}"}
+{"query": "Retrying connect to server: MININT-75DGDAM1.fareast.corp.microsoft.com/10.86.165.66:51951. Already tried 25 time(s); maxRetries=45", "answer": "Retrying connect to server: {variables}. Already tried {variables} time(s); maxRetries={variables}"}
+{"query": "Diagnostics report from attempt_1445144423722_0020_m_000001_0: Error: java.net.NoRouteToHostException: No Route to Host from MININT-FNANLI5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: http://wiki.apache.org/hadoop/NoRouteToHost", "answer": "Diagnostics report from {variables}: Error: java.net.NoRouteToHostException: No Route to Host from {variables} to {variables} failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: {variables}"}
+{"query": "soft limit at 83886080", "answer": "soft limit at {variables}"}
+{"query": "attempt_1445087491445_0005_m_000011_0 TaskAttempt Transitioned from RUNNING to KILL_CONTAINER_CLEANUP", "answer": "{variables} TaskAttempt Transitioned from {variables} to {variables}"}
+{"query": "Assigning MSRA-SA-39.fareast.corp.microsoft.com:13562 with 2 to fetcher#1", "answer": "Assigning {variables} with {variables} to {variables}"}

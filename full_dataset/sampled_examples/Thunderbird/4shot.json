@@ -1,0 +1,4 @@
+{"query": "THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/cmdif_comm.c[823]: Command not completed after timeout: cmd=TAVOR_IF_CMD_HW2SW_MPT (0xf), token=0x1681, pid=0x287D, go=0", "answer": "THH({variables}): {variables}[{variables}]: Command not completed after timeout: cmd={variables}, token={variables}, pid={variables}, go={variables}"}
+{"query": "DHCPDISCOVER from 00:14:22:11:94:bb via eth1", "answer": "DHCPDISCOVER from {variables} via {variables}"}
+{"query": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)", "answer": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)"}
+{"query": "USB Universal Host Controller Interface driver v2.2", "answer": "USB Universal Host Controller Interface driver {variables}"}

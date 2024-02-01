@@ -1,0 +1,4 @@
+{"query": "10.11.10.1 \"POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1\" status: 202 len: 733 time: 0.5575180", "answer": "{variables} \"POST {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
+{"query": "10.11.10.1 \"POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1\" status: 404 len: 296 time: 0.0848172", "answer": "{variables} \"POST {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
+{"query": "[instance: 942d95b2-843b-4199-9d3d-a68dfeba5780] Creating image", "answer": "[instance: {variables}] Creating image"}
+{"query": "[instance: 636b44eb-4c54-4438-90a6-68a156f33b6d] VM Resumed (Lifecycle Event)", "answer": "[instance: {variables}] VM Resumed (Lifecycle Event)"}

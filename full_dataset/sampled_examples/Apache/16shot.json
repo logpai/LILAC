@@ -1,0 +1,16 @@
+{"query": "LDAP: Built with OpenLDAP LDAP SDK", "answer": "LDAP: Built with OpenLDAP LDAP SDK"}
+{"query": "LDAP: SSL support unavailable", "answer": "LDAP: SSL support unavailable"}
+{"query": "suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)", "answer": "suEXEC mechanism enabled (wrapper: {variables})"}
+{"query": "Digest: generating secret for digest authentication ...", "answer": "Digest: generating secret for digest authentication ..."}
+{"query": "Digest: done", "answer": "Digest: done"}
+{"query": "env.createBean2(): Factory error creating channel.jni:jni ( channel.jni, jni)", "answer": "env.createBean2(): Factory error creating {variables} ({variables}, {variables})"}
+{"query": "config.update(): Can't create vm:", "answer": "config.update(): Can't create {variables}"}
+{"query": "env.createBean2(): Factory error creating worker.jni:onStartup ( worker.jni, onStartup)", "answer": "env.createBean2(): Factory error creating {variables} ({variables}, {variables})"}
+{"query": "config.update(): Can't create worker.jni:onShutdown", "answer": "config.update(): Can't create {variables}"}
+{"query": "mod_python: Creating 32 session mutexes based on 150 max processes and 0 max threads.", "answer": "mod_python: Creating {variables} session mutexes based on {variables} max processes and {variables} max threads."}
+{"query": "Apache/2.0.49 (Fedora) configured -- resuming normal operations", "answer": "Apache/{variables} configured -- resuming normal operations"}
+{"query": "jk2_init() Found child 3705 in scoreboard slot 46", "answer": "jk2_init() Found child {variables} in scoreboard slot {variables}"}
+{"query": "workerEnv.init() ok /etc/httpd/conf/workers2.properties", "answer": "workerEnv.init() ok {variables}"}
+{"query": "mod_jk child init 1 0", "answer": "mod_jk child init {variables} {variables}"}
+{"query": "[client 219.149.134.235] Directory index forbidden by rule: /var/www/html/", "answer": "[client {variables}] Directory index forbidden by rule: {variables}"}
+{"query": "[client 221.146.1.119] File does not exist: /var/www/html/c", "answer": "[client {variables}] File does not exist: {variables}"}

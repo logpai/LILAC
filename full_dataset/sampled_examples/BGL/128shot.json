@@ -1,0 +1,128 @@
+{"query": "disable flagging of DDR UE's as major internal error.0", "answer": "disable flagging of DDR UE's as major internal error.{variables}"}
+{"query": "close EDRAM pages as soon as possible....0", "answer": "close EDRAM pages as soon as possible....{variables}"}
+{"query": "39074 L3 EDRAM error(s) (dcr 0x0157) detected and corrected", "answer": "{variables} L3 {variables} error(s) (dcr {variables}) detected and corrected"}
+{"query": "ciod: LOGIN chdir(/p/gb2/greeno/_raptor.test) failed: No such file or directory", "answer": "ciod: LOGIN chdir({variables}) failed: No such file or directory"}
+{"query": "machine check status register: 0x91800000", "answer": "machine check status register: {variables}"}
+{"query": "instruction address: 0x0035bc24", "answer": "instruction address: {variables}"}
+{"query": "number of correctable errors detected in L3 EDRAMs........0", "answer": "number of correctable errors detected in L3 EDRAMs........{variables}"}
+{"query": "max number of outstanding prefetches.....7", "answer": "max number of outstanding prefetches.....{variables}"}
+{"query": "EndServiceAction is restarting the NodeCards in midplane R30-M0 as part of Service Action 220", "answer": "EndServiceAction is restarting the NodeCards in midplane {variables} as part of Service Action {variables}"}
+{"query": "regctl scancom interface.........................0", "answer": "regctl scancom interface.........................{variables}"}
+{"query": "data store interrupt caused by dcbf.........0", "answer": "data store interrupt caused by dcbf.........{variables}"}
+{"query": "uncorrectable error detected in EDRAM bank 0...0", "answer": "uncorrectable error detected in EDRAM bank {variables}...{variables}"}
+{"query": "4 floating point alignment exceptions", "answer": "{variables} floating point alignment exceptions"}
+{"query": "disable apu instruction broadcast........0", "answer": "disable apu instruction broadcast........{variables}"}
+{"query": "machine check enable..............0", "answer": "machine check enable..............{variables}"}
+{"query": "byte ordering exception.....................0", "answer": "byte ordering exception.....................{variables}"}
+{"query": "disable write lines 2:4..................0", "answer": "disable write lines {variables}..................{variables}"}
+{"query": "instruction cache parity error corrected", "answer": "instruction cache parity error corrected"}
+{"query": "i-cache parity error..............0", "answer": "i-cache parity error..............{variables}"}
+{"query": "floating point instr. enabled.....0", "answer": "floating point instr. enabled.....{variables}"}
+{"query": "guaranteed instruction cache block touch.0", "answer": "guaranteed instruction cache block touch.{variables}"}
+{"query": "memory manager RMW buffer parity.................0", "answer": "memory manager RMW buffer parity.................{variables}"}
+{"query": "idoproxydb has been started: $Name: DRV202_2005 $ Input parameters: -enableflush -loguserinfo db.properties BlueGene1", "answer": "idoproxydb has been started: $Name: {variables} $ Input parameters: {variables}"}
+{"query": "disable store gathering..................0", "answer": "disable store gathering..................{variables}"}
+{"query": "turn on hidden refreshes.................1", "answer": "turn on hidden refreshes.................{variables}"}
+{"query": "ciod: Message code 0 is not 51 or 4294967295", "answer": "ciod: Message code {variables} is not {variables} or {variables}"}
+{"query": "Starting SystemController", "answer": "Starting SystemController"}
+{"query": "disable trace broadcast..................0", "answer": "disable trace broadcast..................{variables}"}
+{"query": "MidplaneSwitchController performing bit sparing on R27-M1-L3-U18-C bit 3", "answer": "MidplaneSwitchController performing bit sparing on {variables} bit {variables}"}
+{"query": "core configuration register: 0x00002000", "answer": "core configuration register: {variables}"}
+{"query": "ciod: X coordinate 8 exceeds physical dimension 8 at line 17 of node map file /home/fgygi/qb/test/h2o/h2o512/txyz1024.map", "answer": "ciod: {variables} coordinate {variables} exceeds physical dimension {variables} at line {variables} of node map file {variables}"}
+{"query": "d-cache search parity error.......0", "answer": "d-cache search parity error.......{variables}"}
+{"query": "7232113 double-hummer alignment exceptions", "answer": "{variables} double-hummer alignment exceptions"}
+{"query": "external input interrupt enable...0", "answer": "external input interrupt enable...{variables}"}
+{"query": "memory manager address parity error..............0", "answer": "memory manager address parity error..............{variables}"}
+{"query": "BglIdoChip table has 2 IDOs with the same IP address (10.0.0.237)", "answer": "BglIdoChip table has {variables} IDOs with the same IP address {variables}"}
+{"query": "NodeCard VPD is corrupt", "answer": "NodeCard VPD is corrupt"}
+{"query": "Node card is not fully functional", "answer": "Node card is not fully functional"}
+{"query": "machine check: i-fetch......................0", "answer": "machine check: i-fetch......................{variables}"}
+{"query": "correctable error detected in directory 1......0", "answer": "correctable error detected in directory {variables}"}
+{"query": "ciod: LOGIN chdir(/home/bertsch2/src/bgl_hello) failed: Permission denied", "answer": "ciod: LOGIN chdir({variables}) failed: Permission denied"}
+{"query": "ciod: for node 37, read continuation request but ioState is 0", "answer": "ciod: for node {variables} read continuation request but ioState is {variables}"}
+{"query": "prefetch depth for core 0................1", "answer": "prefetch depth for core {variables}................{variables}"}
+{"query": "critical input interrupt enable...0", "answer": "critical input interrupt enable...{variables}"}
+{"query": "rror threshold, consider replacing the card", "answer": "rror threshold, consider replacing the card"}
+{"query": "L3 ecc status register: 00200000", "answer": "L3 ecc status register: {variables}"}
+{"query": "disable all access to cache directory....0", "answer": "disable all access to cache directory....{variables}"}
+{"query": "uncorrectable error detected in external DDR...1", "answer": "uncorrectable error detected in external DDR...{variables}"}
+{"query": "address parity error..0", "answer": "address parity error..{variables}"}
+{"query": "SerialNumber(000000000000000000000000fff29f16ebdb000d60e91424) IpAddress(10.0.1.8) Status(A)", "answer": "SerialNumber({variables}) IpAddress({variables}) Status({variables})"}
+{"query": "d-cache flush parity error........1", "answer": "d-cache flush parity error.......{variables}"}
+{"query": "suppressing further interrupts of same type", "answer": "suppressing further interrupts of same type"}
+{"query": "ciod: LOGIN chdir(/p/gb2/dbremer) failed: No such file or directory", "answer": "ciod: LOGIN chdir({variables}) failed: No such file or directory"}
+{"query": "external input interrupt (unit=0x02 bit=0x0a): torus sender x- retransmission error was corrected", "answer": "external input interrupt (unit={variables} bit={variables}): torus sender {variables} retransmission error was corrected"}
+{"query": "instruction plb error.............1", "answer": "instruction plb error.............{variables}"}
+{"query": "lr:00114148 cr:88002824 xer:20000002 ctr:00000000", "answer": "lr:{variables} cr:{variables} xer:{variables} ctr:{variables}"}
+{"query": "external input interrupt (unit=0x01 bit=0x09): number of corrected SRAM errors has exceeded threshold", "answer": "external input interrupt (unit={variables} bit={variables}): number of corrected SRAM errors has exceeded threshold"}
+{"query": "BGLMaster has been started: ./BGLMaster --consoleip 127.0.0.1 --consoleport 32035 --configfile bglmaster.init", "answer": "BGLMaster has been started: ./BGLMaster --consoleip {variables} --consoleport {variables} --configfile {variables}"}
+{"query": "memory manager refresh counter timeout...........0", "answer": "memory manager refresh counter timeout...........{variables}"}
+{"query": "floating point operation....................0", "answer": "floating point operation....................{variables}"}
+{"query": "floating pt ex mode 0 enable......1", "answer": "floating pt ex mode {variables} enable......{variables}"}
+{"query": "25 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected", "answer": "{variables} tree receiver {variables} in re-synch state event(s) (dcr {variables}) detected"}
+{"query": "general purpose registers:", "answer": "general purpose registers:"}
+{"query": "Controlling BG/L rows [ 0 1 2 3 ]", "answer": "Controlling BG/L rows [ {variables} ]"}
+{"query": "memory and bus summary...........................0", "answer": "memory and bus summary...........................{variables}"}
+{"query": "debug wait enable.................0", "answer": "debug wait enable.................{variables}"}
+{"query": "program interrupt", "answer": "program interrupt"}
+{"query": "data TLB error interrupt", "answer": "data TLB error interrupt"}
+{"query": "wait state enable.................0", "answer": "wait state enable.................{variables}"}
+{"query": "ddr: Unable to steer rank=0, symbol=12 - rank is already steering symbol 14. Due to multiple symbols being over the correctable", "answer": "ddr: Unable to steer rank={variables}, symbol={variables} - rank is already steering symbol {variables}. Due to multiple symbols being over the correctable"}
+{"query": "force load/store alignment...............0", "answer": "force load/store alignment...............{variables}"}
+{"query": "EndServiceAction 224 performed upon R36-M1-NE by root", "answer": "EndServiceAction {variables} performed upon {variables} by {variables}"}
+{"query": "ciod: X coordinate 8 exceeds physical dimension 8 at line 4097 of node map file /p/gb2/draeger/benchmark/dat16k_062205/map16k_bipartyz", "answer": "ciod: {variables} coordinate {variables} exceeds physical dimension {variables} at line {variables} of node map file {variables}"}
+{"query": "data address space................0", "answer": "data address space................{variables}"}
+{"query": "ciod: Error loading a.out: invalid or missing program image, No such file or directory", "answer": "ciod: Error loading {variables}: invalid or missing program image, No such file or directory"}
+{"query": "memory manager store buffer parity...............0", "answer": "memory manager store buffer parity...............{variables}"}
+{"query": "program interrupt: illegal instruction......0", "answer": "program interrupt: illegal instruction......{variables}"}
+{"query": "ciod: Error loading ./runtime_init: invalid or missing program image, No such file or directory", "answer": "ciod: Error loading {variables}: invalid or missing program image, No such file or directory"}
+{"query": "machine state register: 0x00001000", "answer": "machine state register: {variables}"}
+{"query": "job 20251 timed out. Block freed.", "answer": "job {variables} timed out. Block freed."}
+{"query": "parity error in read queue 1...................0", "answer": "parity error in read queue {variables}...................{variables}"}
+{"query": "problem state (0=sup,1=usr).......0", "answer": "problem state ({variables}=sup,{variables}=usr).......{variables}"}
+{"query": "machine check interrupt (bit=0x10): L2 DCU read error", "answer": "machine check interrupt (bit={variables}): L2 DCU read error"}
+{"query": "program interrupt: privileged instruction...0", "answer": "program interrupt: privileged instruction...{variables}"}
+{"query": "rts panic! - stopping execution", "answer": "rts panic! - stopping execution"}
+{"query": "exception syndrome register: 0x00800000", "answer": "exception syndrome register: {variables}"}
+{"query": "data write plb error..............0", "answer": "data write plb error..............{variables}"}
+{"query": "size of scratchpad portion of L3.........0 (0M)", "answer": "size of scratchpad portion of L3.........{variables} ({variables})"}
+{"query": "rts internal error", "answer": "rts internal error"}
+{"query": "ciod: LOGIN chdir(/p/gb2/cjmundy/cur/cpmd.x) failed: Permission denied", "answer": "ciod: LOGIN chdir({variables}) failed: Permission denied"}
+{"query": "external input interrupt (unit=0x02 bit=0x0b): torus sender y+ retransmission error was corrected", "answer": "external input interrupt (unit={variables} bit={variables}): torus sender {variables} retransmission error was corrected"}
+{"query": "program interrupt: trap instruction.........0", "answer": "program interrupt: trap instruction.........{variables}"}
+{"query": "Running as background command", "answer": "Running as background command"}
+{"query": "ciod: pollControlDescriptors: Detected the debugger died.", "answer": "ciod: pollControlDescriptors: Detected the debugger died."}
+{"query": "imprecise machine check...........0", "answer": "imprecise machine check...........{variables}"}
+{"query": "guaranteed data cache block touch........1", "answer": "guaranteed data cache block touch........{variables}"}
+{"query": "icache prefetch depth....................0", "answer": "icache prefetch depth....................{variables}"}
+{"query": "program interrupt: fp compare...............0", "answer": "program interrupt: fp compare...............{variables}"}
+{"query": "data read plb error...............0", "answer": "data read plb error...............{variables}"}
+{"query": "memory manager miscompare........................0", "answer": "memory manager miscompare........................{variables}"}
+{"query": "disable speculative access...............0", "answer": "disable speculative access...............{variables}"}
+{"query": "ciodb has been restarted.", "answer": "ciodb has been restarted."}
+{"query": "instruction address space.........0", "answer": "instruction address space.........{variables}"}
+{"query": "critical input interrupt (unit=0x0b bit=0x17): warning for tree C1 wire", "answer": "critical input interrupt (unit={variables} bit={variables}): warning for tree {variables} wire"}
+{"query": "PrepareForService shutting down NodeCard(mLctn(R11-M1-NB), mCardSernum(203231503833343000000000594c31304b34323831303143), mLp(FF:F2:9F:16:E7:14:00:0D:60:E9:18:EB), mIp(10.1.1.75), mType(4)) as part of Service Action 221", "answer": "PrepareForService shutting down NodeCard({variables}, {variables}, {variables}, {variables}, {variables}) as part of Service Action {variables}"}
+{"query": "machine check interrupt (bit=0x06): L3 major internal error", "answer": "machine check interrupt (bit={variables}): L3 major internal error"}
+{"query": "memory manager / command manager address parity..0", "answer": "memory manager / command manager address parity..{variables}"}
+{"query": "size of DDR we are caching...............1 (512M)", "answer": "size of DDR we are caching...............{variables} ({variables})"}
+{"query": "Ido chip status changed: FF:F2:9F:16:E7:14:00:0D:60:E9:18:EB ip=10.1.1.75 v=13 t=4 status=M Fri Jun 17 07:25:00 PDT 2005", "answer": "Ido chip status changed: {variables} ip={variables} v={variables} t={variables} status={variables} {variables}"}
+{"query": "L3 global control register: 0x001249f0", "answer": "L3 global control register: {variables}"}
+{"query": "number of lines with parity errors written to L3 EDRAMs...0", "answer": "number of lines with parity errors written to L3 EDRAMs...{variables}"}
+{"query": "error threshold, consider replacing the card", "answer": "error threshold, consider replacing the card"}
+{"query": "3418 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected", "answer": "{variables} torus receiver {variables} input pipe error(s) (dcr {variables}) detected and corrected"}
+{"query": "memory manager strobe gate.......................0", "answer": "memory manager strobe gate.......................{variables}"}
+{"query": "memory manager address error.....................0", "answer": "memory manager address error.....................{variables}"}
+{"query": "30 ddr errors(s) detected and corrected on rank 0, symbol 33, bit 0", "answer": "{variables} ddr errors(s) detected and corrected on rank {variables}, symbol {variables} bit {variables}"}
+{"query": "L3 ecc control register: 00000000", "answer": "L3 ecc control register: {variables}"}
+{"query": "memory manager uncorrectable error...............1", "answer": "memory manager uncorrectable error...............{variables}"}
+{"query": "command manager unit summary.....................0", "answer": "command manager unit summary.....................{variables}"}
+{"query": "debug interrupt enable............0", "answer": "debug interrupt enable............{variables}"}
+{"query": "ciod: Error loading /p/gb2/draeger/benchmark/hangtest_062005/testQboxhang-yeszerobytebug-nocommnosleep: invalid or missing program image, No such file or directory", "answer": "ciod: Error loading {variables}: invalid or missing program image, No such file or directory"}
+{"query": "ddr: activating redundant bit steering: rank=0 symbol=28", "answer": "ddr: activating redundant bit steering: rank={variables} symbol={variables}"}
+{"query": "parity error in bank 0.........................0", "answer": "parity error in bank {variables}.........................{variables}"}
+{"query": "program interrupt: unimplemented operation..0", "answer": "program interrupt: unimplemented operation..{variables}"}
+{"query": "Can not get assembly information for node card", "answer": "Can not get assembly information for node card"}
+{"query": "ciod: Error loading /home/spelce1/SPPM_VERIFY/sppm/run/sppm: program image too big, 746264160 > 534511616", "answer": "ciod: Error loading {variables}: program image too big, {variables} > {variables}"}
+{"query": "CE sym 26, at 0x1f7cc700, mask 0x04", "answer": "CE sym {variables}, at {variables}, mask {variables}"}
+{"query": "Node card VPD check: U11 node in processor card slot J15 do not match. VPD ecid 04E28092DC2FFFFF02081BD098E8, found 04D58087212FFFFF0A0A1A908CCD", "answer": "Node card VPD check: {variables} node in processor card slot {variables} do not match. VPD ecid {variables}, found {variables}"}

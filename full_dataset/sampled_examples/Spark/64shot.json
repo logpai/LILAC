@@ -1,0 +1,64 @@
+{"query": "Got job 122 (collect at IPLoM.py:673) with 13 output partitions", "answer": "Got job {variables} (collect at {variables}) with {variables} output partitions"}
+{"query": "Setting up ContainerLaunchContext", "answer": "Setting up ContainerLaunchContext"}
+{"query": "Unregistering ApplicationMaster with SUCCEEDED", "answer": "Unregistering ApplicationMaster with {variables}"}
+{"query": "Asked to send map output locations for shuffle 19 to mesos-slave-20:49750", "answer": "Asked to send map output locations for shuffle {variables} to {variables}"}
+{"query": "Stopped Spark web UI at http://10.10.34.23:33134", "answer": "Stopped Spark web UI at {variables}"}
+{"query": "Lost task 8.3 in stage 2.0 (TID 175, mesos-slave-26): ExecutorLostFailure (executor 19 exited caused by one of the running tasks) Reason: Container killed by YARN for exceeding memory limits. 57.2 GB of 46.2 GB virtual memory used. Consider boosting spark.yarn.executor.memoryOverhead.", "answer": "Lost task {variables} in stage {variables} (TID {variables}, {variables}): ExecutorLostFailure (executor {variables} exited caused by one of the running tasks) Reason: Container killed by {variables} for exceeding memory limits. {variables} of {variables} {variables} memory used. Consider boosting {variables}."}
+{"query": "Failed to fetch remote block broadcast_6_piece272 from BlockManagerId(6, mesos-slave-11, 54378) (failed attempt 1)", "answer": "Failed to fetch remote block {variables} from BlockManagerId({variables}, {variables}, {variables}) (failed attempt {variables})"}
+{"query": "Submitting ResultStage 2 (PythonRDD[5] at RDD at PythonRDD.scala:43), which has no missing parents", "answer": "Submitting ResultStage {variables} ({variables} at {variables}), which has no missing parents"}
+{"query": "Uncaught exception in thread Thread[Executor task launch worker-1,5,main]", "answer": "Uncaught exception in thread Thread[Executor task launch {variables},{variables}]"}
+{"query": "Getting 13 non-empty blocks out of 13 blocks", "answer": "Getting {variables} non-empty blocks out of {variables} blocks"}
+{"query": "Ignored failure: java.io.IOException: Connection from mesos-master-1/10.10.34.11:34641 closed", "answer": "Ignored failure: java.io.IOException: Connection from {variables} closed"}
+{"query": "Exception in createBlockOutputStream", "answer": "Exception in createBlockOutputStream"}
+{"query": "This may have been caused by a prior exception:", "answer": "This may have been caused by a prior exception:"}
+{"query": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kProxifier.log:42952+6136", "answer": "Input split: {variables}+{variables}"}
+{"query": "Disabling executor 3.", "answer": "Disabling executor {variables}."}
+{"query": "Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48636", "answer": "Connecting to driver: spark://{variables}"}
+{"query": "Final stage: ResultStage 4 (collect at pnmf4.py:296)", "answer": "Final stage: ResultStage {variables} (collect at {variables})"}
+{"query": "Registered executor NettyRpcEndpointRef(null) (mesos-master-1:36537) with ID 3", "answer": "Registered executor NettyRpcEndpointRef({variables}) ({variables}) with ID {variables}"}
+{"query": "Resubmitting ShuffleMapStage 4 (reduceByKey at pnmf4.py:371) and ResultStage 5 (collect at pnmf4.py:377) due to fetch failure", "answer": "Resubmitting ShuffleMapStage {variables} (reduceByKey at {variables}) and ResultStage {variables} (collect at {variables}) due to fetch failure"}
+{"query": "Exception in connection from mesos-slave-06/10.10.34.16:41816", "answer": "Exception in connection from {variables}"}
+{"query": "Started reading broadcast variable 2155", "answer": "Started reading broadcast variable {variables}"}
+{"query": "Lost task 0.1 in stage 4.0 (TID 12, mesos-slave-08): ExecutorLostFailure (executor 1 exited caused by one of the running tasks) Reason: Container marked as failed: container_1485248649253_0076_02_000002 on host: mesos-slave-08. Exit status: 143. Diagnostics: Container killed on request. Exit code is 143", "answer": "Lost task {variables} in stage {variables} (TID {variables}, {variables}): ExecutorLostFailure (executor {variables} exited caused by one of the running tasks) Reason: Container marked as failed: {variables} on host: {variables}. Exit status: {variables}. Diagnostics: {variables}. Exit code is {variables}"}
+{"query": "Block broadcast_395_piece0 stored as bytes in memory (estimated size 5.7 KB, free 4.8 MB)", "answer": "Block {variables} stored as bytes in memory (estimated size {variables}, free {variables})"}
+{"query": "Reading broadcast variable 257 took 4 ms", "answer": "Reading broadcast variable {variables} took {variables} ms"}
+{"query": "Unregistering ApplicationMaster with FAILED (diag message: Max number of executor failures (4) reached)", "answer": "Unregistering ApplicationMaster with {variables}"}
+{"query": "Added broadcast_6_piece302 in memory on 10.10.34.17:50829 (size: 4.0 MB, free: 32.5 GB)", "answer": "Added {variables} in memory on {variables} (size: {variables}, free: {variables})"}
+{"query": "An unknown (mesos-master-1:60451) driver disconnected.", "answer": "An unknown ({variables}) driver disconnected."}
+{"query": "ShuffleMapStage 9 (reduceByKey at pnmf4.py:295) finished in 35.177 s", "answer": "ShuffleMapStage {variables} ({variables} at {variables}) finished in {variables} s"}
+{"query": "Error while invoking RpcHandler#receive() for one-way message.", "answer": "Error while invoking RpcHandler#receive() for one-way message."}
+{"query": "Invoking stop() from shutdown hook", "answer": "Invoking stop() from shutdown hook"}
+{"query": "Remote daemon shut down; proceeding with flushing remote transports.", "answer": "Remote daemon shut down; proceeding with flushing remote transports."}
+{"query": "Updating epoch to 15 and clearing cache", "answer": "Updating epoch to {variables} and clearing cache"}
+{"query": "Total input paths to process : 1", "answer": "Total input paths to process : {variables}"}
+{"query": "Finished task 27.0 in stage 14.0 (TID 653) in 1331 ms on mesos-slave-05 (23/48)", "answer": "Finished task {variables} in stage {variables} (TID {variables}) in {variables} ms on {variables} ({variables})"}
+{"query": "Starting job: collect at IPLoM.py:124", "answer": "Starting job: collect at {variables}"}
+{"query": "Lost task 0.2 in stage 5.1 (TID 18, mesos-slave-27): FetchFailed(null, shuffleId=0, mapId=-1, reduceId=0, message=", "answer": "Lost task {variables} in stage {variables} (TID {variables}, {variables}): FetchFailed({variables}, shuffleId={variables}, mapId=-{variables}, reduceId={variables}, message={variables}"}
+{"query": "Doing the fetch; tracker endpoint = NettyRpcEndpointRef(spark://MapOutputTracker@10.10.34.11:49884)", "answer": "Doing the fetch; tracker endpoint = NettyRpcEndpointRef(spark://{variables})"}
+{"query": "Got told to re-register updating block broadcast_16_piece0", "answer": "Got told to re-register updating block {variables}"}
+{"query": "Starting the user application in a separate Thread", "answer": "Starting the user application in a separate Thread"}
+{"query": "Failed to send RPC 7602262632040413524 to mesos-master-1/10.10.34.11:51096: java.nio.channels.ClosedChannelException", "answer": "Failed to send RPC {variables} to {variables}: {variables}"}
+{"query": "Successfully registered with driver", "answer": "Successfully registered with driver"}
+{"query": "SchedulerBackend is ready for scheduling beginning after reached minRegisteredResourcesRatio: 0.8", "answer": "SchedulerBackend is ready for scheduling beginning after reached minRegisteredResourcesRatio: {variables}"}
+{"query": "Waiting for spark context initialization ...", "answer": "Waiting for spark context initialization ..."}
+{"query": "Don't have map outputs for shuffle 53, fetching them", "answer": "Don't have map outputs for shuffle {variables}, fetching them"}
+{"query": "Starting job: collect at pnmf4.py:333", "answer": "Starting job: collect at {variables}"}
+{"query": "Asked to remove non-existent executor 12", "answer": "Asked to remove non-existent executor {variables}"}
+{"query": "RECEIVED SIGNAL 15: SIGTERM", "answer": "RECEIVED SIGNAL {variables}: SIGTERM"}
+{"query": "Received 10 containers from YARN, launching executors on 0 of them.", "answer": "Received {variables} containers from YARN, launching executors on {variables} of them."}
+{"query": "Starting job: count at pnmf4.py:353", "answer": "Starting job: count at {variables}"}
+{"query": "SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)", "answer": "SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set({variables}, {variables}); users with modify permissions: Set({variables}, {variables})"}
+{"query": "Successfully started service 'sparkExecutorActorSystem' on port 54644.", "answer": "Successfully started service {variables} on port {variables}."}
+{"query": "Container marked as failed: container_1485248649253_0037_01_000002 on host: mesos-slave-16. Exit status: -100. Diagnostics: Container expired since it was unused", "answer": "Container marked as failed: {variables} on host: {variables}. Exit status: {variables}. Diagnostics: Container expired since it was unused"}
+{"query": "Connection to mesos-master-1/10.10.34.11:34641 has been quiet for 120000 ms while there are outstanding requests. Assuming connection is dead; please adjust spark.network.timeout if this is wrong.", "answer": "Connection to {variables} has been quiet for {variables} ms while there are outstanding requests. Assuming connection is dead; please adjust spark.network.timeout if this is wrong."}
+{"query": "BlockManager re-registering with master", "answer": "BlockManager re-registering with master"}
+{"query": "Changing modify acls to: yarn,curi", "answer": "Changing modify acls to: {variables},{variables}"}
+{"query": "Size of output statuses for shuffle 27 is 303 bytes", "answer": "Size of output statuses for shuffle {variables} is {variables} bytes"}
+{"query": "MemoryStore cleared", "answer": "MemoryStore cleared"}
+{"query": "Times: total = 58, boot = 20, init = 38, finish = 0", "answer": "Times: total = {variables}, boot = {variables}, init = {variables}, finish = {variables}"}
+{"query": "stopped o.s.j.s.ServletContextHandler{/jobs/json,null}", "answer": "stopped o.s.j.s.ServletContextHandler{{variables}}"}
+{"query": "Waiting for application to be successfully unregistered.", "answer": "Waiting for application to be successfully unregistered."}
+{"query": "Submitting ResultStage 6 (MapPartitionsRDD[15] at saveAsTextFile at NativeMethodAccessorImpl.java:-2), which has no missing parents", "answer": "Submitting ResultStage {variables} ({variables} at {variables}), which has no missing parents"}
+{"query": "Cleaned accumulator 141", "answer": "Cleaned accumulator {variables}"}
+{"query": "Launching container container_1485248649253_0103_01_000005 for on host mesos-slave-06", "answer": "Launching container {variables} for on host {variables}"}
+{"query": "Exception in connection from /10.10.34.27:58087", "answer": "Exception in connection from {variables}"}

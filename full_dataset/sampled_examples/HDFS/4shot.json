@@ -1,0 +1,4 @@
+{"query": "Receiving block blk_-8799522312627279534 src: /10.251.109.236:47869 dest: /10.251.109.236:50010", "answer": "Receiving block {variables} src: {variables} dest: {variables}"}
+{"query": "BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001851_0/part-01851. blk_112309473857513866", "answer": "BLOCK* NameSystem.allocateBlock: {variables} {variables}"}
+{"query": "PacketResponder 2 for block blk_-3376664191919063228 terminating", "answer": "PacketResponder {variables} for block {variables} terminating"}
+{"query": "Received block blk_-7446360355203828416 of size 67108864 from /10.250.10.176", "answer": "Received block {variables} of size {variables} from {variables}"}

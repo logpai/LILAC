@@ -1,0 +1,8 @@
+{"query": "1 failed to configure resourcemgmt subsystem err = 10", "answer": "{variables} failed to configure resourcemgmt subsystem err = {variables}"}
+{"query": "wait (command 3336)", "answer": "wait (command {variables})"}
+{"query": "boot (command 3512)", "answer": "boot (command {variables})"}
+{"query": "halt (command 2722)", "answer": "halt (command {variables})"}
+{"query": "clusterAddMember (command 3867)", "answer": "clusterAddMember (command {variables})"}
+{"query": "risBoot (command 1912)", "answer": "risBoot (command {variables})"}
+{"query": "bootGenvmunix (command 1906)", "answer": "bootGenvmunix (command {variables})"}
+{"query": "member_delete (command 4184)", "answer": "member_delete (command {variables})"}

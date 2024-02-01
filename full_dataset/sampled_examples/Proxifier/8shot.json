@@ -1,0 +1,8 @@
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 301 bytes sent, 278 bytes received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 2449 bytes (2.39 KB) sent, 730 bytes received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes ({variables}) sent, {variables} bytes received, lifetime {variables}"}
+{"query": "www.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS", "answer": "{variables} open through proxy {variables} HTTPS"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 653 bytes sent, 358 bytes received, lifetime 00:02", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 1468 bytes (1.43 KB) sent, 7090 bytes (6.92 KB) received, lifetime 00:30", "answer": "{variables} close, {variables} bytes ({variables}) sent, {variables} bytes ({variables}) received, lifetime {variables}"}
+{"query": "183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:1080 SOCKS5", "answer": "{variables} open through proxy {variables} SOCKS5"}
+{"query": "tcpconn6.tencent.com:443 error : A connection request was canceled before the completion.", "answer": "{variables} error : A connection request was canceled before the completion."}
+{"query": "tcpconn4.tencent.com:80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.", "answer": "{variables} error : Could not connect through proxy {variables} - Proxy closed the connection unexpectedly."}

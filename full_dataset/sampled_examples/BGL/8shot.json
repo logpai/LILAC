@@ -1,0 +1,8 @@
+{"query": "program interrupt: trap instruction.........0", "answer": "program interrupt: trap instruction.........{variables}"}
+{"query": "d-cache flush parity error........1", "answer": "d-cache flush parity error.......{variables}"}
+{"query": "Node card is not fully functional", "answer": "Node card is not fully functional"}
+{"query": "number of lines with parity errors written to L3 EDRAMs...0", "answer": "number of lines with parity errors written to L3 EDRAMs...{variables}"}
+{"query": "memory manager RMW buffer parity.................0", "answer": "memory manager RMW buffer parity.................{variables}"}
+{"query": "disable all access to cache directory....0", "answer": "disable all access to cache directory....{variables}"}
+{"query": "disable speculative access...............0", "answer": "disable speculative access...............{variables}"}
+{"query": "machine check enable..............1", "answer": "machine check enable..............{variables}"}

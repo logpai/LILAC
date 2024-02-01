@@ -1,0 +1,8 @@
+{"query": "Reading configuration from: /etc/zookeeper/conf/zoo.cfg", "answer": "Reading configuration from: {variables}"}
+{"query": "Defaulting to majority quorums", "answer": "Defaulting to majority quorums"}
+{"query": "autopurge.snapRetainCount set to 3", "answer": "autopurge.snapRetainCount set to {variables}"}
+{"query": "autopurge.purgeInterval set to 0", "answer": "autopurge.purgeInterval set to {variables}"}
+{"query": "Purge task is not scheduled.", "answer": "Purge task is not scheduled."}
+{"query": "Starting quorum peer", "answer": "Starting quorum peer"}
+{"query": "binding to port 0.0.0.0/0.0.0.0:2181", "answer": "binding to port {variables}"}
+{"query": "tickTime set to 2000", "answer": "tickTime set to {variables}"}

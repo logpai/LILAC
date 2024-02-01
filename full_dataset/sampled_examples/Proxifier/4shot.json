@@ -1,0 +1,4 @@
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 301 bytes sent, 278 bytes received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 2449 bytes (2.39 KB) sent, 730 bytes received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes ({variables}) sent, {variables} bytes received, lifetime {variables}"}
+{"query": "www.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS", "answer": "{variables} open through proxy {variables} HTTPS"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 653 bytes sent, 358 bytes received, lifetime 00:02", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}

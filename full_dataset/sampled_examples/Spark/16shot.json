@@ -1,0 +1,16 @@
+{"query": "Got job 122 (collect at IPLoM.py:673) with 13 output partitions", "answer": "Got job {variables} (collect at {variables}) with {variables} output partitions"}
+{"query": "Setting up ContainerLaunchContext", "answer": "Setting up ContainerLaunchContext"}
+{"query": "Unregistering ApplicationMaster with SUCCEEDED", "answer": "Unregistering ApplicationMaster with {variables}"}
+{"query": "Asked to send map output locations for shuffle 19 to mesos-slave-20:49750", "answer": "Asked to send map output locations for shuffle {variables} to {variables}"}
+{"query": "Stopped Spark web UI at http://10.10.34.23:33134", "answer": "Stopped Spark web UI at {variables}"}
+{"query": "Lost task 8.3 in stage 2.0 (TID 175, mesos-slave-26): ExecutorLostFailure (executor 19 exited caused by one of the running tasks) Reason: Container killed by YARN for exceeding memory limits. 57.2 GB of 46.2 GB virtual memory used. Consider boosting spark.yarn.executor.memoryOverhead.", "answer": "Lost task {variables} in stage {variables} (TID {variables}, {variables}): ExecutorLostFailure (executor {variables} exited caused by one of the running tasks) Reason: Container killed by {variables} for exceeding memory limits. {variables} of {variables} {variables} memory used. Consider boosting {variables}."}
+{"query": "Failed to fetch remote block broadcast_6_piece272 from BlockManagerId(6, mesos-slave-11, 54378) (failed attempt 1)", "answer": "Failed to fetch remote block {variables} from BlockManagerId({variables}, {variables}, {variables}) (failed attempt {variables})"}
+{"query": "Submitting ResultStage 2 (PythonRDD[5] at RDD at PythonRDD.scala:43), which has no missing parents", "answer": "Submitting ResultStage {variables} ({variables} at {variables}), which has no missing parents"}
+{"query": "Uncaught exception in thread Thread[Executor task launch worker-1,5,main]", "answer": "Uncaught exception in thread Thread[Executor task launch {variables},{variables}]"}
+{"query": "Getting 13 non-empty blocks out of 13 blocks", "answer": "Getting {variables} non-empty blocks out of {variables} blocks"}
+{"query": "Ignored failure: java.io.IOException: Connection from mesos-master-1/10.10.34.11:34641 closed", "answer": "Ignored failure: java.io.IOException: Connection from {variables} closed"}
+{"query": "Exception in createBlockOutputStream", "answer": "Exception in createBlockOutputStream"}
+{"query": "This may have been caused by a prior exception:", "answer": "This may have been caused by a prior exception:"}
+{"query": "Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kProxifier.log:42952+6136", "answer": "Input split: {variables}+{variables}"}
+{"query": "Disabling executor 3.", "answer": "Disabling executor {variables}."}
+{"query": "Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48636", "answer": "Connecting to driver: spark://{variables}"}

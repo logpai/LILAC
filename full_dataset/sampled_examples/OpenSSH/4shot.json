@@ -1,0 +1,4 @@
+{"query": "reverse mapping checking getaddrinfo for dsl-187-172-55-163-dyn.prod-infinitum.com.mx [187.172.55.163] failed - POSSIBLE BREAK-IN ATTEMPT!", "answer": "reverse mapping checking getaddrinfo for {variables} [{variables}] failed - POSSIBLE BREAK-IN ATTEMPT!"}
+{"query": "Invalid user how from 115.71.16.143", "answer": "Invalid user {variables} from {variables}"}
+{"query": "input_userauth_request: invalid user test [preauth]", "answer": "input_userauth_request: invalid user {variables} [preauth]"}
+{"query": "pam_unix(sshd:auth): check pass; user unknown", "answer": "pam_unix(sshd:auth): check pass; user unknown"}

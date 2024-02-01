@@ -1,0 +1,16 @@
+{"query": "1 failed to configure resourcemgmt subsystem err = 10", "answer": "{variables} failed to configure resourcemgmt subsystem err = {variables}"}
+{"query": "wait (command 3336)", "answer": "wait (command {variables})"}
+{"query": "boot (command 3512)", "answer": "boot (command {variables})"}
+{"query": "halt (command 2722)", "answer": "halt (command {variables})"}
+{"query": "clusterAddMember (command 3867)", "answer": "clusterAddMember (command {variables})"}
+{"query": "risBoot (command 1912)", "answer": "risBoot (command {variables})"}
+{"query": "bootGenvmunix (command 1906)", "answer": "bootGenvmunix (command {variables})"}
+{"query": "member_delete (command 4184)", "answer": "member_delete (command {variables})"}
+{"query": "haltcluster (command 2599)", "answer": "haltcluster (command {variables})"}
+{"query": "Command has completed successfully", "answer": "Command has completed successfully"}
+{"query": "Targeting domains:node-D0 and nodes:node-31", "answer": "Targeting domains:{variables} and nodes:{variables}"}
+{"query": "Targeting domains:node-D0 and nodes:node-[0-2]", "answer": "Targeting domains:{variables} and nodes:{variables}"}
+{"query": "Targeting domains:node-D7 and nodes:node-[224\\ 226-229\\ 231-233] child of command 3003", "answer": "Targeting domains:{variables} and nodes:{variables}"}
+{"query": "Targeting domains:node-D0 and nodes:node-[8\\ 12-13\\ 15\\ 18-19]", "answer": "Targeting domains:{variables} and nodes:{variables}"}
+{"query": "Targeting domains:node-D6 and nodes:node-[192-223] child of command 4002", "answer": "Targeting domains:{variables} and nodes:{variables}"}
+{"query": "Targeting domains:node-D4 and nodes:node-129 child of command 3436", "answer": "Targeting domains:{variables} and nodes:{variables}"}

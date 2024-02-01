@@ -1,0 +1,4 @@
+{"query": "onReceive action: android.intent.action.SCREEN_ON", "answer": "onReceive action: {variables}"}
+{"query": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON", "answer": "processHandleBroadcastAction action:{variables}"}
+{"query": "flush sensor data", "answer": "flush sensor data"}
+{"query": "calculateCaloriesWithCache totalCalories=238705", "answer": "calculateCaloriesWithCache totalCalories={variables}"}

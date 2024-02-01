@@ -1,0 +1,32 @@
+{"query": "Reading configuration from: /etc/zookeeper/conf/zoo.cfg", "answer": "Reading configuration from: {variables}"}
+{"query": "Defaulting to majority quorums", "answer": "Defaulting to majority quorums"}
+{"query": "autopurge.snapRetainCount set to 3", "answer": "autopurge.snapRetainCount set to {variables}"}
+{"query": "autopurge.purgeInterval set to 0", "answer": "autopurge.purgeInterval set to {variables}"}
+{"query": "Purge task is not scheduled.", "answer": "Purge task is not scheduled."}
+{"query": "Starting quorum peer", "answer": "Starting quorum peer"}
+{"query": "binding to port 0.0.0.0/0.0.0.0:2181", "answer": "binding to port {variables}"}
+{"query": "tickTime set to 2000", "answer": "tickTime set to {variables}"}
+{"query": "minSessionTimeout set to -1", "answer": "minSessionTimeout set to {variables}"}
+{"query": "maxSessionTimeout set to -1", "answer": "maxSessionTimeout set to {variables}"}
+{"query": "initLimit set to 10", "answer": "initLimit set to {variables}"}
+{"query": "acceptedEpoch not found! Creating with a reasonable default of 0. This should only happen when you are upgrading your installation", "answer": "acceptedEpoch not found! Creating with a reasonable default of {variables}. This should only happen when you are upgrading your installation"}
+{"query": "My election bind port: 0.0.0.0/0.0.0.0:3888", "answer": "My election bind port: {variables}"}
+{"query": "New election. My id = 1, proposed zxid=0x0", "answer": "New election. My id = {variables}, proposed {variables}"}
+{"query": "Notification: 2 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 2 (n.sid), 0x0 (n.peerEPoch), LOOKING (my state)", "answer": "Notification: {variables} (n.leader), {variables} (n.zxid), {variables} (n.round), {variables} (n.state), {variables} (n.sid), {variables} (n.peerEPoch), {variables} (my state)"}
+{"query": "Cannot open channel to 2 at election address /10.10.34.12:3888", "answer": "Cannot open channel to {variables} at election address {variables}"}
+{"query": "Notification time out: 400", "answer": "Notification time out: {variables}"}
+{"query": "Received connection request /10.10.34.13:60483", "answer": "Received connection request {variables}"}
+{"query": "TCP NoDelay set to: true", "answer": "TCP NoDelay set to: {variables}"}
+{"query": "Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT", "answer": "Server environment:zookeeper.version={variables}, built on {variables} GMT"}
+{"query": "Server environment:host.name=node1", "answer": "Server environment:host.name={variables}"}
+{"query": "Server environment:java.version=1.7.0_79", "answer": "Server environment:java.version={variables}"}
+{"query": "Server environment:java.vendor=Oracle Corporation", "answer": "Server environment:java.vendor={variables}"}
+{"query": "Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre", "answer": "Server environment:java.home={variables}"}
+{"query": "Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar", "answer": "Server environment:java.class.path={variables}"}
+{"query": "Server environment:java.io.tmpdir=/tmp", "answer": "Server environment:java.io.tmpdir={variables}"}
+{"query": "Server environment:java.compiler=<NA>", "answer": "Server environment:java.compiler={variables}"}
+{"query": "Server environment:os.name=Linux", "answer": "Server environment:os.name={variables}"}
+{"query": "Server environment:os.arch=amd64", "answer": "Server environment:os.arch={variables}"}
+{"query": "Server environment:os.version=3.16.0-30-generic", "answer": "Server environment:os.version={variables}"}
+{"query": "Server environment:user.name=zookeeper", "answer": "Server environment:user.name={variables}"}
+{"query": "Server environment:user.home=/var/lib/zookeeper", "answer": "Server environment:user.home={variables}"}

@@ -1,0 +1,16 @@
+{"query": "Security Scaffold v1.0.0 initialized", "answer": "Security Scaffold {variables} initialized"}
+{"query": "Stopping MySQL: succeeded", "answer": "Stopping MySQL: succeeded"}
+{"query": "*** info [startup.c(95)]:", "answer": "*** info [startup.c({variables})]:"}
+{"query": "CPU: Intel Pentium III (Coppermine) stepping 06", "answer": "CPU: Intel Pentium III (Coppermine) stepping {variables}"}
+{"query": "Linux agpgart interface v0.100 (c) Dave Jones", "answer": "Linux agpgart interface {variables} (c) Dave Jones"}
+{"query": "crond startup succeeded", "answer": "{variables} startup succeeded"}
+{"query": "Bluetooth: RFCOMM ver 1.2", "answer": "Bluetooth: {variables} ver {variables}"}
+{"query": "Disabled Privacy Extensions on device 022db720(lo)", "answer": "Disabled Privacy Extensions on device {variables}({variables})"}
+{"query": "EXT3-fs: hda2: 4 orphan inodes deleted", "answer": "EXT3-fs: {variables}: {variables} orphan inodes deleted"}
+{"query": "smartd startup succeeded", "answer": "{variables} startup succeeded"}
+{"query": "hcid startup succeeded", "answer": "{variables} startup succeeded"}
+{"query": "Jul 27 14:42:19 Privoxy(-150806400) Info: loading configuration file '/etc/privoxy/config':", "answer": "{variables} Privoxy({variables}) Info: loading configuration file {variables}"}
+{"query": "uhci_hcd 0000:00:1f.2: new USB bus registered, assigned bus number 1", "answer": "uhci_hcd {variables}: new USB bus registered, assigned bus number {variables}"}
+{"query": "sdpd startup succeeded", "answer": "{variables} startup succeeded"}
+{"query": "RAMDISK: Compressed image found at block 0", "answer": "RAMDISK: Compressed image found at block {variables}"}
+{"query": "hda: max request size: 128KiB", "answer": "hda: max request size: {variables}"}

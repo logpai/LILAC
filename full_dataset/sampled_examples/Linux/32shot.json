@@ -1,0 +1,32 @@
+{"query": "Security Scaffold v1.0.0 initialized", "answer": "Security Scaffold {variables} initialized"}
+{"query": "Stopping MySQL: succeeded", "answer": "Stopping MySQL: succeeded"}
+{"query": "*** info [startup.c(95)]:", "answer": "*** info [startup.c({variables})]:"}
+{"query": "CPU: Intel Pentium III (Coppermine) stepping 06", "answer": "CPU: Intel Pentium III (Coppermine) stepping {variables}"}
+{"query": "Linux agpgart interface v0.100 (c) Dave Jones", "answer": "Linux agpgart interface {variables} (c) Dave Jones"}
+{"query": "crond startup succeeded", "answer": "{variables} startup succeeded"}
+{"query": "Bluetooth: RFCOMM ver 1.2", "answer": "Bluetooth: {variables} ver {variables}"}
+{"query": "Disabled Privacy Extensions on device 022db720(lo)", "answer": "Disabled Privacy Extensions on device {variables}({variables})"}
+{"query": "EXT3-fs: hda2: 4 orphan inodes deleted", "answer": "EXT3-fs: {variables}: {variables} orphan inodes deleted"}
+{"query": "smartd startup succeeded", "answer": "{variables} startup succeeded"}
+{"query": "hcid startup succeeded", "answer": "{variables} startup succeeded"}
+{"query": "Jul 27 14:42:19 Privoxy(-150806400) Info: loading configuration file '/etc/privoxy/config':", "answer": "{variables} Privoxy({variables}) Info: loading configuration file {variables}"}
+{"query": "uhci_hcd 0000:00:1f.2: new USB bus registered, assigned bus number 1", "answer": "uhci_hcd {variables}: new USB bus registered, assigned bus number {variables}"}
+{"query": "sdpd startup succeeded", "answer": "{variables} startup succeeded"}
+{"query": "RAMDISK: Compressed image found at block 0", "answer": "RAMDISK: Compressed image found at block {variables}"}
+{"query": "hda: max request size: 128KiB", "answer": "hda: max request size: {variables}"}
+{"query": "Adding 262072k swap on /dev/hda3. Priority:-1 extents:1", "answer": "Adding {variables} swap on {variables}. Priority:{variables} extents:{variables}"}
+{"query": "ICH: IDE controller at PCI slot 0000:00:1f.1", "answer": "ICH: IDE controller at PCI slot {variables}"}
+{"query": "Bluetooth: HCI device and connection manager initialized", "answer": "Bluetooth: HCI device and connection manager initialized"}
+{"query": "apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)", "answer": "apm: BIOS version {variables} Flags {variables} (Driver version {variables})"}
+{"query": "session closed for user htt", "answer": "session closed for user {variables}"}
+{"query": "smartd has fork()ed into background mode. New PID=1757.", "answer": "smartd has fork()ed into background mode. New PID={variables}."}
+{"query": "Starting readahead: succeeded", "answer": "Starting readahead: succeeded"}
+{"query": "microcode: CPU0 already at revision 0x8 (current=0x8)", "answer": "microcode: CPU0 already at revision {variables} (current={variables})"}
+{"query": "Built 1 zonelists", "answer": "Built {variables} zonelists"}
+{"query": "Monitoring 1 ATA and 0 SCSI devices", "answer": "Monitoring {variables} ATA and {variables} SCSI devices"}
+{"query": "PCI: Probing PCI hardware (bus 00)", "answer": "PCI: Probing PCI hardware (bus {variables})"}
+{"query": "RAMDISK driver initialized: 16 RAM disks of 16384K size 1024 blocksize", "answer": "RAMDISK driver initialized: {variables} RAM disks of {variables} size {variables} blocksize"}
+{"query": "Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code", "answer": "Authentication failed from {variables} ({variables}): Permission denied in replay cache code"}
+{"query": "anacron startup succeeded", "answer": "{variables} startup succeeded"}
+{"query": "Capability LSM initialized", "answer": "Capability LSM initialized"}
+{"query": "CPU: L2 cache: 256K", "answer": "CPU: L2 cache: {variables}"}

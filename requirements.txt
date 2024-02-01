@@ -1,0 +1,13 @@
+chardet==5.2.0
+config==0.5.1
+deap==1.4.1
+natsort==8.4.0
+nltk==3.8.1
+numpy
+openai==0.27.8
+pandas
+regex==2023.6.3
+scikit_learn==1.2.2
+scipy
+textdistance==4.5.0
+tqdm

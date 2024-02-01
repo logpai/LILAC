@@ -1,0 +1,32 @@
+{"query": "THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/cmdif_comm.c[823]: Command not completed after timeout: cmd=TAVOR_IF_CMD_HW2SW_MPT (0xf), token=0x1681, pid=0x287D, go=0", "answer": "THH({variables}): {variables}[{variables}]: Command not completed after timeout: cmd={variables}, token={variables}, pid={variables}, go={variables}"}
+{"query": "DHCPDISCOVER from 00:14:22:11:94:bb via eth1", "answer": "DHCPDISCOVER from {variables} via {variables}"}
+{"query": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)", "answer": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)"}
+{"query": "USB Universal Host Controller Interface driver v2.2", "answer": "USB Universal Host Controller Interface driver {variables}"}
+{"query": "VFS: Disk quotas dquot_6.5.1", "answer": "VFS: Disk quotas {variables}"}
+{"query": "invcol Error: Not enough space available in /var folder.", "answer": "invcol Error: Not enough space available in {variables} folder."}
+{"query": "PCI: Using MMCONFIG at e0000000", "answer": "PCI: Using MMCONFIG at {variables}"}
+{"query": "Instrumentation Service EventID: 1154 Voltage sensor detected a failure value Sensor location: BMC ROMB Battery Chassis location: Main System Chassis Previous state was: OK (Normal) Discrete voltage state: Bad", "answer": "Instrumentation Service EventID: {variables} Voltage sensor detected a failure value Sensor location: {variables} Chassis location: {variables} Previous state was: {variables} Discrete voltage state: {variables}"}
+{"query": "jADBPUuH026143: SYSERR(root): queueup: cannot create queue file qfjADBPUuH026143, euid=51, fd=-1, fp=0x0: No space left on device", "answer": "{variables}: SYSERR({variables}): queueup: cannot create queue file {variables}, euid={variables}, fd={variables}, fp={variables}: No space left on device"}
+{"query": "haldaemon -TERM succeeded", "answer": "{variables} -TERM succeeded"}
+{"query": "LustreError: 30427:0:(module.c:46:kportal_assertion_failed()) LBUG", "answer": "LustreError: {variables}:({variables}) LBUG"}
+{"query": "couldn't ping address #27#:3095 using #89#:1, 0x23a1 (pan_sock: timeout)", "answer": "couldn't ping address {variables} using {variables}, {variables} (pan_sock: timeout)"}
+{"query": "Configuration file /etc/smartd.conf parsed but has no entries (like /dev/hda)", "answer": "Configuration file {variables} parsed but has no entries (like {variables})"}
+{"query": "Support MySQL by buying support/licenses at https://#4#", "answer": "Support {variables} by buying support/licenses at {variables}"}
+{"query": "- key was been created 15429758 seconds in future", "answer": "- key was been created {variables} seconds in future"}
+{"query": "[ib_sm_assign.c:568]: Force port to go down due to LID conflict, node - GUID=5ad000004cd30, port=1", "answer": "[{variables}]: Force port to go down due to LID conflict, node - GUID={variables}, port={variables}"}
+{"query": "Started working: 0 available services", "answer": "Started working: {variables} available services"}
+{"query": "Free pages: 19756kB (0kB HighMem)", "answer": "Free pages: {variables} ({variables} HighMem)"}
+{"query": "Freeing unused kernel memory: 188k freed", "answer": "Freeing unused kernel memory: {variables} freed"}
+{"query": "Did not receive identification string from ::ffff:10.100.12.250", "answer": "Did not receive identification string from {variables}"}
+{"query": "dcdbas failed to allocate memory for BIOS Update", "answer": "{variables} failed to allocate memory for BIOS Update"}
+{"query": "Kerberos password accepted for user #57# (#57#@#24#).", "answer": "Kerberos password accepted for user {variables} ({variables})."}
+{"query": "ACPI: Using IOAPIC for interrupt routing", "answer": "ACPI: Using IOAPIC for interrupt routing"}
+{"query": "Fusion MPT SCSI Host driver 3.02.18", "answer": "Fusion MPT SCSI Host driver {variables}"}
+{"query": "md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27", "answer": "md driver {variables} MAX_MD_DEVS={variables}, MD_SB_DISKS={variables}"}
+{"query": "time reset -0.441796 s", "answer": "time reset {variables} s"}
+{"query": "Kickstart/Yast Install: Finished installation on localhost.localdomain", "answer": "Kickstart/Yast Install: Finished installation on {variables}"}
+{"query": "#57# : TTY=pts/3 ; PWD=/home/#57# ; USER=root ; COMMAND=/apps/contrib/sm", "answer": "{variables} : TTY={variables} ; PWD={variables} ; USER={variables} ; COMMAND={variables}"}
+{"query": "THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/hob_comm.c[781]: XHH_hob_register_KL(1): [MM_create_mr]:MM_mr_get_keys failed", "answer": "THH({variables}): {variables}[{variables}]: XHH_hob_register_KL({variables}): [MM_create_mr]:{variables}"}
+{"query": "Sending on LPF/eth1/00:11:43:e3:ba:ad/D_net", "answer": "Sending on {variables}"}
+{"query": "[ib_sm_sweep.c:433]: IB node 0x0005AD000003BD50 port 1 had discovery timeout", "answer": "[{variables}]: IB node {variables} port {variables} had discovery timeout"}
+{"query": "Setting clock (localtime): Thu Nov 10 18:21:22 MST 2005 succeeded", "answer": "Setting clock (localtime): {variables} succeeded"}

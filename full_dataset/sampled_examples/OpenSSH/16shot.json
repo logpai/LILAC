@@ -1,0 +1,16 @@
+{"query": "reverse mapping checking getaddrinfo for dsl-187-172-55-163-dyn.prod-infinitum.com.mx [187.172.55.163] failed - POSSIBLE BREAK-IN ATTEMPT!", "answer": "reverse mapping checking getaddrinfo for {variables} [{variables}] failed - POSSIBLE BREAK-IN ATTEMPT!"}
+{"query": "Invalid user how from 115.71.16.143", "answer": "Invalid user {variables} from {variables}"}
+{"query": "input_userauth_request: invalid user test [preauth]", "answer": "input_userauth_request: invalid user {variables} [preauth]"}
+{"query": "pam_unix(sshd:auth): check pass; user unknown", "answer": "pam_unix(sshd:auth): check pass; user unknown"}
+{"query": "Failed password for git from 42.159.145.29 port 40264 ssh2", "answer": "Failed password for {variables} from {variables} port {variables} ssh2"}
+{"query": "Connection closed by 82.194.53.101 [preauth]", "answer": "Connection closed by {variables} [preauth]"}
+{"query": "Received disconnect from 203.190.163.125: 11: Bye Bye [preauth]", "answer": "Received disconnect from {variables}: {variables}: Bye Bye [preauth]"}
+{"query": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=bb219-74-10-118.singnet.com.sg user=root", "answer": "pam_unix(sshd:auth): authentication failure; logname={variables} uid={variables} euid={variables} tty={variables} ruser={variables} rhost={variables} user={variables}"}
+{"query": "message repeated 5 times: [ Failed password for root from 109.184.15.220 port 40433 ssh2]", "answer": "message repeated {variables} times: [ Failed password for {variables} from {variables} port {variables} ssh2]"}
+{"query": "Disconnecting: Too many authentication failures for root [preauth]", "answer": "Disconnecting: Too many authentication failures for {variables} [preauth]"}
+{"query": "PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=h-158-174-64-74.na.cust.bahnhof.se user=root", "answer": "PAM {variables} more authentication failures; logname={variables} uid={variables} euid={variables} tty={variables} ruser={variables} rhost={variables} user={variables}"}
+{"query": "PAM service(sshd) ignoring max retries; 5 > 3", "answer": "PAM service(sshd) ignoring max retries; {variables} > {variables}"}
+{"query": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=211.168.232.5 user=root", "answer": "pam_unix(sshd:auth): authentication failure; logname={variables} uid={variables} euid={variables} tty={variables} ruser={variables} rhost={variables} user={variables}"}
+{"query": "Did not receive identification string from 162.243.141.174", "answer": "Did not receive identification string from {variables}"}
+{"query": "error: Received disconnect from 103.207.36.21: 3: com.jcraft.jsch.JSchException: Auth fail [preauth]", "answer": "error: Received disconnect from {variables}: {variables}: {variables}: Auth fail [preauth]"}
+{"query": "pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.207.39.16 user=uucp", "answer": "pam_unix(sshd:auth): authentication failure; logname={variables} uid={variables} euid={variables} tty={variables} ruser={variables} rhost={variables} user={variables}"}

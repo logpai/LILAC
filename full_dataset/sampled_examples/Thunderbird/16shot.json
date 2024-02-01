@@ -1,0 +1,16 @@
+{"query": "THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/cmdif_comm.c[823]: Command not completed after timeout: cmd=TAVOR_IF_CMD_HW2SW_MPT (0xf), token=0x1681, pid=0x287D, go=0", "answer": "THH({variables}): {variables}[{variables}]: Command not completed after timeout: cmd={variables}, token={variables}, pid={variables}, go={variables}"}
+{"query": "DHCPDISCOVER from 00:14:22:11:94:bb via eth1", "answer": "DHCPDISCOVER from {variables} via {variables}"}
+{"query": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)", "answer": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)"}
+{"query": "USB Universal Host Controller Interface driver v2.2", "answer": "USB Universal Host Controller Interface driver {variables}"}
+{"query": "VFS: Disk quotas dquot_6.5.1", "answer": "VFS: Disk quotas {variables}"}
+{"query": "invcol Error: Not enough space available in /var folder.", "answer": "invcol Error: Not enough space available in {variables} folder."}
+{"query": "PCI: Using MMCONFIG at e0000000", "answer": "PCI: Using MMCONFIG at {variables}"}
+{"query": "Instrumentation Service EventID: 1154 Voltage sensor detected a failure value Sensor location: BMC ROMB Battery Chassis location: Main System Chassis Previous state was: OK (Normal) Discrete voltage state: Bad", "answer": "Instrumentation Service EventID: {variables} Voltage sensor detected a failure value Sensor location: {variables} Chassis location: {variables} Previous state was: {variables} Discrete voltage state: {variables}"}
+{"query": "jADBPUuH026143: SYSERR(root): queueup: cannot create queue file qfjADBPUuH026143, euid=51, fd=-1, fp=0x0: No space left on device", "answer": "{variables}: SYSERR({variables}): queueup: cannot create queue file {variables}, euid={variables}, fd={variables}, fp={variables}: No space left on device"}
+{"query": "haldaemon -TERM succeeded", "answer": "{variables} -TERM succeeded"}
+{"query": "LustreError: 30427:0:(module.c:46:kportal_assertion_failed()) LBUG", "answer": "LustreError: {variables}:({variables}) LBUG"}
+{"query": "couldn't ping address #27#:3095 using #89#:1, 0x23a1 (pan_sock: timeout)", "answer": "couldn't ping address {variables} using {variables}, {variables} (pan_sock: timeout)"}
+{"query": "Configuration file /etc/smartd.conf parsed but has no entries (like /dev/hda)", "answer": "Configuration file {variables} parsed but has no entries (like {variables})"}
+{"query": "Support MySQL by buying support/licenses at https://#4#", "answer": "Support {variables} by buying support/licenses at {variables}"}
+{"query": "- key was been created 15429758 seconds in future", "answer": "- key was been created {variables} seconds in future"}
+{"query": "[ib_sm_assign.c:568]: Force port to go down due to LID conflict, node - GUID=5ad000004cd30, port=1", "answer": "[{variables}]: Force port to go down due to LID conflict, node - GUID={variables}, port={variables}"}

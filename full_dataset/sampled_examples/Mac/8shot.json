@@ -1,0 +1,8 @@
+{"query": "Watch set is now: {(", "answer": "Watch set is now: {("}
+{"query": "hfs: mounted Recovery HD on device disk0s3", "answer": "hfs: mounted Recovery HD on device {variables}"}
+{"query": "Invalid Connection ID 0", "answer": "Invalid Connection ID {variables}"}
+{"query": "Got an XPC error: Connection invalid", "answer": "Got an XPC error: Connection invalid"}
+{"query": "CCFile::captureLogRun() Exiting CCFile::captureLogRun", "answer": "CCFile::captureLogRun() Exiting CCFile::captureLogRun"}
+{"query": "hibernate_teardown_pmap_structs done: last_valid_compact_indx 279968", "answer": "hibernate_teardown_pmap_structs done: last_valid_compact_indx {variables}"}
+{"query": "[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0x1800", "answer": "[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- {variables}"}
+{"query": "2017-07-02 15:46:40.516 GoogleSoftwareUpdateAgent[32432/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: \"https://tools.google.com/service/update2?cup2hreq=29f0533938db88b28a5beddb8458ae94143d3661c2862efbb24705b30d4bdd19&cup2key=7:128339796\"", "answer": "{variables} {variables} GoogleSoftwareUpdateAgent[{variables}] [lvl={variables}] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: \"{variables}\""}

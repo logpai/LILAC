@@ -1,0 +1,32 @@
+{"query": "onReceive action: android.intent.action.SCREEN_ON", "answer": "onReceive action: {variables}"}
+{"query": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON", "answer": "processHandleBroadcastAction action:{variables}"}
+{"query": "flush sensor data", "answer": "flush sensor data"}
+{"query": "calculateCaloriesWithCache totalCalories=238705", "answer": "calculateCaloriesWithCache totalCalories={variables}"}
+{"query": "calculateAltitudeWithCache totalAltitude=120", "answer": "calculateAltitudeWithCache totalAltitude={variables}"}
+{"query": "onReceive action: android.intent.action.SCREEN_OFF", "answer": "onReceive action: {variables}"}
+{"query": "isScreenOn true", "answer": "isScreenOn {variables}"}
+{"query": "screen status unknown,think screen on", "answer": "screen status unknown,think screen {variables}"}
+{"query": "processHandleBroadcastAction action:android.intent.action.TIME_TICK", "answer": "processHandleBroadcastAction action:{variables}"}
+{"query": "flushTempCacheToDB by stand", "answer": "flushTempCacheToDB by {variables}"}
+{"query": "Alarm uploadStaticsToDB totalSteps=5829Calories:142074Floor:90Distance:4131", "answer": "Alarm uploadStaticsToDB totalSteps={variables}"}
+{"query": "writeDataToDB size 819", "answer": "writeDataToDB size {variables}"}
+{"query": "upLoadOneMinuteDataToEngine time=25236356,0,86,0,20002", "answer": "upLoadOneMinuteDataToEngine time={variables}"}
+{"query": "getBinderPackageName packageName = com.huawei.health", "answer": "getBinderPackageName packageName = {variables}"}
+{"query": "getAppContext() isAppValid health or wear, packageName = com.huawei.health", "answer": "getAppContext() isAppValid health or wear, packageName = {variables}"}
+{"query": "insertHiHealthData() checkAppType 0 appID = 1", "answer": "insertHiHealthData() checkAppType {variables} appID = {variables}"}
+{"query": "insertHiHealthData() size = 76,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0", "answer": "insertHiHealthData() size = {variables},app = {variables},One Data Type = {variables},packageName = {variables},writeStatType = {variables}"}
+{"query": "saveHealthDetailData() deviceID = 2,clientID=1,id=1", "answer": "saveHealthDetailData() deviceID = {variables},clientID={variables},id={variables}"}
+{"query": "saveStatData() type =40005,time = 1514131200000,statClient = 2,who is 1", "answer": "saveStatData() type ={variables},time = {variables},statClient = {variables},who is {variables}"}
+{"query": "new date =20171224, type=40004,8574.0,old=8364.0", "answer": "new date ={variables}, type={variables},old={variables}"}
+{"query": "saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40003", "answer": "saveHealthDetailData() saveOneDetailData fail hiHealthData = {variables},type = {variables}"}
+{"query": "bulkSaveDetailHiHealthData() size = 16,totalTime = 11", "answer": "bulkSaveDetailHiHealthData() size = {variables},totalTime = {variables}"}
+{"query": "startListenerChange subscribeList = [1]", "answer": "startListenerChange subscribeList = [{variables}]"}
+{"query": "insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT", "answer": "insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = {variables},errorMessage = {variables}"}
+{"query": "insertHiHealthData() end totalTime = 108", "answer": "insertHiHealthData() end totalTime = {variables}"}
+{"query": "uploadStaticsToDB() onResult type = 4 obj=true", "answer": "uploadStaticsToDB() onResult type = {variables} obj={variables}"}
+{"query": "uploadStaticsToDB failed message=true", "answer": "uploadStaticsToDB failed message={variables}"}
+{"query": "checkInsertStatus stepSum or calorieSum is enough", "answer": "checkInsertStatus stepSum or calorieSum is enough"}
+{"query": "checkInsertStatus stepStatSum or calorieStatSum is enough", "answer": "checkInsertStatus stepStatSum or calorieStatSum is enough"}
+{"query": "stepSyncOrNot appSynTimes is 0, statsyncTimes is 0", "answer": "stepSyncOrNot appSynTimes is {variables}, statsyncTimes is {variables}"}
+{"query": "startInsertSportSync start auto sync,app is 1", "answer": "startInsertSportSync start auto sync,app is {variables}"}
+{"query": "checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0", "answer": "checkFirstSyncByType no such data in db ,type is {variables} deviceCode is {variables}"}

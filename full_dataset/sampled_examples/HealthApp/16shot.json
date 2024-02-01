@@ -1,0 +1,16 @@
+{"query": "onReceive action: android.intent.action.SCREEN_ON", "answer": "onReceive action: {variables}"}
+{"query": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON", "answer": "processHandleBroadcastAction action:{variables}"}
+{"query": "flush sensor data", "answer": "flush sensor data"}
+{"query": "calculateCaloriesWithCache totalCalories=238705", "answer": "calculateCaloriesWithCache totalCalories={variables}"}
+{"query": "calculateAltitudeWithCache totalAltitude=120", "answer": "calculateAltitudeWithCache totalAltitude={variables}"}
+{"query": "onReceive action: android.intent.action.SCREEN_OFF", "answer": "onReceive action: {variables}"}
+{"query": "isScreenOn true", "answer": "isScreenOn {variables}"}
+{"query": "screen status unknown,think screen on", "answer": "screen status unknown,think screen {variables}"}
+{"query": "processHandleBroadcastAction action:android.intent.action.TIME_TICK", "answer": "processHandleBroadcastAction action:{variables}"}
+{"query": "flushTempCacheToDB by stand", "answer": "flushTempCacheToDB by {variables}"}
+{"query": "Alarm uploadStaticsToDB totalSteps=5829Calories:142074Floor:90Distance:4131", "answer": "Alarm uploadStaticsToDB totalSteps={variables}"}
+{"query": "writeDataToDB size 819", "answer": "writeDataToDB size {variables}"}
+{"query": "upLoadOneMinuteDataToEngine time=25236356,0,86,0,20002", "answer": "upLoadOneMinuteDataToEngine time={variables}"}
+{"query": "getBinderPackageName packageName = com.huawei.health", "answer": "getBinderPackageName packageName = {variables}"}
+{"query": "getAppContext() isAppValid health or wear, packageName = com.huawei.health", "answer": "getAppContext() isAppValid health or wear, packageName = {variables}"}
+{"query": "insertHiHealthData() checkAppType 0 appID = 1", "answer": "insertHiHealthData() checkAppType {variables} appID = {variables}"}

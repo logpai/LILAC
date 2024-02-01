@@ -1,0 +1,4 @@
+{"query": "Deleting staging directory hdfs://msra-sa-41:9000 /tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020", "answer": "Deleting staging directory {variables} {variables}"}
+{"query": "Connecting to ResourceManager at msra-sa-41/10.190.173.170:8030", "answer": "Connecting to ResourceManager at {variables}"}
+{"query": "Read 60515389 bytes from map-output for attempt_1445062781478_0017_m_000000_0", "answer": "Read {variables} bytes from map-output for {variables}"}
+{"query": "Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@12a0fe1b", "answer": "Using ResourceCalculatorProcessTree : {variables}"}

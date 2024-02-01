@@ -1,0 +1,16 @@
+{"query": "program interrupt: trap instruction.........0", "answer": "program interrupt: trap instruction.........{variables}"}
+{"query": "d-cache flush parity error........1", "answer": "d-cache flush parity error.......{variables}"}
+{"query": "Node card is not fully functional", "answer": "Node card is not fully functional"}
+{"query": "number of lines with parity errors written to L3 EDRAMs...0", "answer": "number of lines with parity errors written to L3 EDRAMs...{variables}"}
+{"query": "memory manager RMW buffer parity.................0", "answer": "memory manager RMW buffer parity.................{variables}"}
+{"query": "disable all access to cache directory....0", "answer": "disable all access to cache directory....{variables}"}
+{"query": "disable speculative access...............0", "answer": "disable speculative access...............{variables}"}
+{"query": "machine check enable..............1", "answer": "machine check enable..............{variables}"}
+{"query": "size of DDR we are caching...............1 (512M)", "answer": "size of DDR we are caching...............{variables} ({variables})"}
+{"query": "memory manager uncorrectable error...............1", "answer": "memory manager uncorrectable error...............{variables}"}
+{"query": "4 torus receiver x- input pipe error(s) (dcr 0x02ed) detected and corrected", "answer": "{variables} torus receiver {variables} input pipe error(s) (dcr {variables}) detected and corrected"}
+{"query": "machine check: i-fetch......................0", "answer": "machine check: i-fetch......................{variables}"}
+{"query": "machine check interrupt (bit=0x10): L2 DCU read error", "answer": "machine check interrupt (bit={variables}): L2 DCU read error"}
+{"query": "uncorrectable error detected in EDRAM bank 1...0", "answer": "uncorrectable error detected in EDRAM bank {variables}...{variables}"}
+{"query": "DDR machine check register: 0x00000000 0x00010000", "answer": "DDR machine check register: {variables} {variables}"}
+{"query": "ciod: Message code 2 is not 3 or 4294967295", "answer": "ciod: Message code {variables} is not {variables} or {variables}"}

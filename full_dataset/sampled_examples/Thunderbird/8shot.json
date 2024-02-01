@@ -1,0 +1,8 @@
+{"query": "THH(1): mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/third_party/thca4_linux/kernel/mlxhh/thh/obj_host_amd64_custom1_rhel4/mod_thh/cmdif_comm.c[823]: Command not completed after timeout: cmd=TAVOR_IF_CMD_HW2SW_MPT (0xf), token=0x1681, pid=0x287D, go=0", "answer": "THH({variables}): {variables}[{variables}]: Command not completed after timeout: cmd={variables}, token={variables}, pid={variables}, go={variables}"}
+{"query": "DHCPDISCOVER from 00:14:22:11:94:bb via eth1", "answer": "DHCPDISCOVER from {variables} via {variables}"}
+{"query": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)", "answer": "PCI-DMA: Using software bounce buffering for IO (SWIOTLB)"}
+{"query": "USB Universal Host Controller Interface driver v2.2", "answer": "USB Universal Host Controller Interface driver {variables}"}
+{"query": "VFS: Disk quotas dquot_6.5.1", "answer": "VFS: Disk quotas {variables}"}
+{"query": "invcol Error: Not enough space available in /var folder.", "answer": "invcol Error: Not enough space available in {variables} folder."}
+{"query": "PCI: Using MMCONFIG at e0000000", "answer": "PCI: Using MMCONFIG at {variables}"}
+{"query": "Instrumentation Service EventID: 1154 Voltage sensor detected a failure value Sensor location: BMC ROMB Battery Chassis location: Main System Chassis Previous state was: OK (Normal) Discrete voltage state: Bad", "answer": "Instrumentation Service EventID: {variables} Voltage sensor detected a failure value Sensor location: {variables} Chassis location: {variables} Previous state was: {variables} Discrete voltage state: {variables}"}

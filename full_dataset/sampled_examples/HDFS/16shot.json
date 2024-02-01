@@ -1,0 +1,16 @@
+{"query": "Receiving block blk_-8799522312627279534 src: /10.251.109.236:47869 dest: /10.251.109.236:50010", "answer": "Receiving block {variables} src: {variables} dest: {variables}"}
+{"query": "BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001851_0/part-01851. blk_112309473857513866", "answer": "BLOCK* NameSystem.allocateBlock: {variables} {variables}"}
+{"query": "PacketResponder 2 for block blk_-3376664191919063228 terminating", "answer": "PacketResponder {variables} for block {variables} terminating"}
+{"query": "Received block blk_-7446360355203828416 of size 67108864 from /10.250.10.176", "answer": "Received block {variables} of size {variables} from {variables}"}
+{"query": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.110.68:50010 is added to blk_-9155131212169784918 size 67108864", "answer": "BLOCK* NameSystem.addStoredBlock: blockMap updated: {variables} is added to {variables} size {variables}"}
+{"query": "Receiving block blk_2174273213341142844 src: /10.250.7.244:35468 dest: /10.250.7.244:50010", "answer": "Receiving block {variables} src: {variables} dest: {variables}"}
+{"query": "BLOCK* NameSystem.allocateBlock: /mnt/hadoop/mapred/system/job_200811092030_0009/job.jar. blk_1535304869644844460", "answer": "BLOCK* NameSystem.allocateBlock: {variables} {variables}"}
+{"query": "Received block blk_-6467009160056916452 src: /10.250.15.101:44152 dest: /10.250.15.101:50010 of size 35558510", "answer": "Received block {variables} src: {variables} dest: {variables} of size {variables}"}
+{"query": "PacketResponder 1 for block blk_4917461147254412517 terminating", "answer": "PacketResponder {variables} for block {variables} terminating"}
+{"query": "Received block blk_8496790119848567301 of size 67108864 from /10.251.109.209", "answer": "Received block {variables} of size {variables} from {variables}"}
+{"query": "10.251.122.79:50010:Transmitted block blk_-1009207079038502874 to /10.251.214.225:50010", "answer": "{variables}:Transmitted block {variables} to {variables}"}
+{"query": "10.251.203.80:50010 Starting thread to transfer block blk_-1188252971231200744 to 10.251.111.228:50010, 10.251.43.21:50010", "answer": "{variables} Starting thread to transfer block {variables} to {variables}, {variables}"}
+{"query": "BLOCK* ask 10.251.214.112:50010 to replicate blk_-8651022183233211370 to datanode(s) 10.251.30.179:50010", "answer": "BLOCK* ask {variables} to replicate {variables} to datanode(s) {variables}"}
+{"query": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.199.86:50010 is added to blk_7436504663199074379 size 67108864", "answer": "BLOCK* NameSystem.addStoredBlock: blockMap updated: {variables} is added to {variables} size {variables}"}
+{"query": "10.251.107.50:50010 Served block blk_-1396716363920481302 to /10.251.67.113", "answer": "{variables} Served block {variables} to {variables}"}
+{"query": "10.251.66.63:50010 Served block blk_1522361701713437132 to /10.251.66.63", "answer": "{variables} Served block {variables} to {variables}"}

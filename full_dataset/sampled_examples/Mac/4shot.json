@@ -1,0 +1,4 @@
+{"query": "Watch set is now: {(", "answer": "Watch set is now: {("}
+{"query": "hfs: mounted Recovery HD on device disk0s3", "answer": "hfs: mounted Recovery HD on device {variables}"}
+{"query": "Invalid Connection ID 0", "answer": "Invalid Connection ID {variables}"}
+{"query": "Got an XPC error: Connection invalid", "answer": "Got an XPC error: Connection invalid"}
