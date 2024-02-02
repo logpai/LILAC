@@ -1,6 +1,6 @@
 # LILAC: Log Parsing using LLMs with Adaptive Parsing Cache
 
-This is the replication package for [FSE24]["LILAC: Log Parsing using LLMs with Adaptive Parsing Cache"]().
+This is the replication package for [FSE24] ["LILAC: Log Parsing using LLMs with Adaptive Parsing Cache"](https://arxiv.org/abs/2310.01796).
 
 In this paper, we propose LILAC, the first practical LLM-based log parsing framework.
 LILAC consists of two main components: the ICL-enhanced Parser and the adaptive parsing cache.
@@ -11,7 +11,7 @@ The detailed parsing time can be found in [detailed parsing time for RQ4](figure
 
 If you find our paper benefit your research, please kindly cite our related paper:
 
-- Zhihan Jiang, Jinyang Liu, Zhuangbin Chen, Yichen Li, Junjie Huang, Yintong Huo, Pinjia He, Jiazhen Gu, Michael R. Lyu. [LILAC: Log Parsing using LLMs with Adaptive Parsing Cache]() FSE, 2024. 
+- Zhihan Jiang, Jinyang Liu, Zhuangbin Chen, Yichen Li, Junjie Huang, Yintong Huo, Pinjia He, Jiazhen Gu, Michael R. Lyu. [LILAC: Log Parsing using LLMs with Adaptive Parsing Cache](https://arxiv.org/abs/2310.01796) FSE, 2024. 
 
 - Zhihan Jiang, Jinyang Liu, Junjie Huang, Yichen Li, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Jieming Zhu, Michael R. Lyu. [A Large-scale Benchmark for Log Parsing.](https://arxiv.org/abs/2308.10828) Arxiv, 2023. 
 
